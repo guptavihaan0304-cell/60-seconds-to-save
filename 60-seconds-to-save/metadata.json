@@ -1,0 +1,6 @@
+{
+  "name": "60 Seconds to Save",
+  "description": "Fast-paced 60-second arcade rescue game with crisp geometric canvas visuals, escalating hazards every 15 seconds, and synthesized Web Audio sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
